@@ -20,7 +20,7 @@ This working group is to discuss active [RFCs](https://github.com/paketo-buildpa
     - [Tuesday meetings' Zoom bridge](https://zoom-lfx.platform.linuxfoundation.org/meeting/92311815319?password=89a788a6-0ccc-4b48-8713-b9630f037a22)
     - [Wednesday meetings' Zoom bridge](https://zoom-lfx.platform.linuxfoundation.org/meeting/94250502436?password=071d3ba3-6a7b-4f44-8f79-d8baf394a411)
 *   Agenda and minutes: [Google doc](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing)
-*   Subscribe to the <a href="https://github.com/paketo-buildpacks/community/raw/main/feeds/general_feed.ics" download>public calendar</a>
+*   Subscribe to the <a href="https://github.com/pacostas/community/raw/refs/heads/main/feeds/general_feed.ics" download>public calendar</a>
 *   Previous meetings: [[notes](https://docs.google.com/document/d/1s-c7PrFkteRRMMPrrVrPx85CwMArdJLMZxNQLq8_mO8/edit?usp=sharing) | [recordings](https://www.youtube.com/channel/UCqKo-ctDN1dkF25yOtbTZeQ)]
 
 
